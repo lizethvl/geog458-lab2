@@ -1,7 +1,7 @@
 # Lab 2: Web Data Collection and Visualization
 ## Gaza Conflict on Youtube
 
-The topic I chose is the conflict in Gaza because it is a very significant societal geographical issue right now. For the searches and the word cloud, the parameters were separated based on the stance on the issue. For the first search, a Palestinian-based approach was taken, with the terms *“palestine,” “zionist,” “genocide,”* and the neutral term *“gaza”* were used. In contrast, for the Israeli approach, the terms used were *“isreal,” “gaza,” “terrorist,” “hamas,” and “anti-semetic.”*
+The topic I chose is the conflict in Gaza because it is a very significant societal geographical issue right now. For the searches and the word cloud, the parameters were separated based on the stance on the issue. For the first search, a [Palestinian-based approach](https://raw.githubusercontent.com/lizethvl/geog458-lab2/main/assets/search-result-palestine.csv) was taken, with the terms *“palestine,” “zionist,” “genocide,”* and the neutral term *“gaza”* were used. In contrast, for the [Israeli approach](https://raw.githubusercontent.com/lizethvl/geog458-lab2/main/assets/search-result-israel.csv), the terms used were *“isreal,” “gaza,” “terrorist,” “hamas,” and “anti-semetic.”*
 
 The use of these terms were chosen in hopes of seeing how the difference in search terms regarding the same topics leads to videos with certain beliefs being shown, and demonstrate how important which search terms used really matter and do make a difference, even when they are about the same topic.
 
